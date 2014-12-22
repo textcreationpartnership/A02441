@@ -36,176 +36,184 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The house of correction: or, Certayne satyricall epigrams. Written by I.H. Gent. Together with a few
+
+1. The Authour to his Booke.
+
 #####Body#####
 
-1. ¶ Lectori.
+1. EPIGRAMS.
 
-1. Bibens his bountie.
+    _ ¶ Lectori.
 
-1. I• Ducum.
+    _ Bibens his bountie.
 
-1. ¶ Omne Simile non est Idem.
+    _ I• Ducum.
 
-1. Gr••e pondus.
+    _ ¶ Omne Simile non est Idem.
 
-1. On a Shoemaker.
+    _ Gr••e pondus.
 
-1. On Fuscus his valour.
+    _ On a Shoemaker.
 
-1. Ad Rinaldum amic.
+    _ On Fuscus his valour.
 
-1. In Lusiam.
+    _ Ad Rinaldum amic.
 
-1. In Lincum.
+    _ In Lusiam.
 
-1. Destruit aedificat mutat quadrata rotundis.
+    _ In Lincum.
 
-1. Canutus reformation.
+    _ Destruit aedificat mutat quadrata rotundis.
 
-1. On a Maydens thoyse.
+    _ Canutus reformation.
 
-1. In Pigmeum.
+    _ On a Maydens thoyse.
 
-1. Flemminius Sickenesse.
+    _ In Pigmeum.
 
-1. In Oblitum.
+    _ Flemminius Sickenesse.
 
-1. Lucus Iourney.
+    _ In Oblitum.
 
-1. Nimis Amor.
+    _ Lucus Iourney.
 
-1. In Priscus commendations of his Mistris.
+    _ Nimis Amor.
 
-1. Vltra posse non est esse.
+    _ In Priscus commendations of his Mistris.
 
-1. In Rufum.
+    _ Vltra posse non est esse.
 
-1. In Cornutum.
+    _ In Rufum.
 
-1. Richards mourning.
+    _ In Cornutum.
 
-1. Flaccu's payment.
+    _ Richards mourning.
 
-1. On Iustice her entertaynment.
+    _ Flaccu's payment.
 
-1. Iustice her reward.
+    _ On Iustice her entertaynment.
 
-1. In Briscum.
+    _ Iustice her reward.
 
-1. In Ledaem.
+    _ In Briscum.
 
-1. Enigma.
+    _ In Ledaem.
 
-1. Ad bonos socios.
+    _ Enigma.
 
-1. In Pratum Iur: cons.
+    _ Ad bonos socios.
 
-1. On Captaine Drake his Voyage.
+    _ In Pratum Iur: cons.
 
-1. Ad amicam.
+    _ On Captaine Drake his Voyage.
 
-1. Answere.
+    _ Ad amicam.
 
-1. Will's error.
+    _ Answere.
 
-1. Spinus his choyce.
+    _ Will's error.
 
-1. To Mr. Richard Moore, one of the Masters of the Chancery, on his name.
+    _ Spinus his choyce.
 
-1. To the Bookeseller.
+    _ To Mr. Richard Moore, one of the Masters of the Chancery, on his name.
 
-1. Vulcans Marriage.
+    _ To the Bookeseller.
 
-1. In Borachium.
+    _ Vulcans Marriage.
 
-1. In Dominam Membrosam.
+    _ In Borachium.
 
-1. Theeues falling out, true men come by their goods.
+    _ In Dominam Membrosam.
 
-1. On the sixe Cases.
+    _ Theeues falling out, true men come by their goods.
 
-1. Ad Lectorem.
+    _ On the sixe Cases.
 
-1. On Luce's maintenance.
+    _ Ad Lectorem.
 
-1. Peters trouble.
+    _ On Luce's maintenance.
 
-1. Parnels comfort.
+    _ Peters trouble.
 
-1. In Duellum.
+    _ Parnels comfort.
 
-1. In Bachum & Venèrem.
+    _ In Duellum.
 
-1. On Venter the Merchant.
+    _ In Bachum & Venèrem.
 
-1. To the Gentlewomen Painters.
+    _ On Venter the Merchant.
 
-1. Tempora mutantur & nos mutamur in illis.
+    _ To the Gentlewomen Painters.
 
-1. Ad Iur: cons.
+    _ Tempora mutantur & nos mutamur in illis.
 
-1. Tom's bargaine.
+    _ Ad Iur: cons.
 
-1. To Mistris E. S.
+    _ Tom's bargaine.
 
-1. Epitaph.
+    _ To Mistris E. S.
 
-1. On my Venture in Sir Walter Rawleigh's Voiage.
+    _ Epitaph.
 
-1. A Data fata sequtus.
+    _ On my Venture in Sir Walter Rawleigh's Voiage.
 
-1. In Costum.
+    _ A Data fata sequtus.
 
-1. On Smithfield.
+    _ In Costum.
 
-1. Epitaph on a Foote-man.
+    _ On Smithfield.
 
-1. Censures on the Voyage to Gwyana.
+    _ Epitaph on a Foote-man.
 
-1. On a Scriuener.
+    _ Censures on the Voyage to Gwyana.
 
-1. Ad Templum pro bonis.
+    _ On a Scriuener.
 
-1. De Templo in malos.
+    _ Ad Templum pro bonis.
 
-1. Sextus Purchase.
+    _ De Templo in malos.
 
-1. Mirabilie Visu.
+    _ Sextus Purchase.
 
-1. On the Lotteries.
+    _ Mirabilie Visu.
 
-1. Currit mercator ad Indos.
+    _ On the Lotteries.
 
-1. On the High Spring tide at the Shewes at the Palsgraue's Wedding.
+    _ Currit mercator ad Indos.
 
-1. On Iustice Ballance.
+    _ On the High Spring tide at the Shewes at the Palsgraue's Wedding.
 
-1. Old Siluium.
+    _ On Iustice Ballance.
 
-1. De perochia beatae Mariae de Arcubus.
+    _ Old Siluium.
 
-1. Ex abundantia cordis es loquitur.
+    _ De perochia beatae Mariae de Arcubus.
 
-1. Ad Lectorem Candidum.
+    _ Ex abundantia cordis es loquitur.
 
-1. A Pirat is an excellent Bow-man.
+    _ Ad Lectorem Candidum.
+CERTAINE CHARACTERS, Called PAR PARI. OR, Like to like, quoth the Deuill to the Collier.— Ego nec st
+1. Certaine CHARACTERS, Called PAR PARI: or, Like to like, quoth the Diuell to the Collier.
 
-1. A Drunkard is a Master of Defence,
+    _ A Pirat is an excellent Bow-man.
 
-1. A meere Gallant is one that playes at Noddy.
+    _ A Drunkard is a Master of Defence,
 
-1. A Curtezan is a Musi•ian.
+    _ A meere Gallant is one that playes at Noddy.
 
-1. A Gull Traueller is the Ball at Tennis,
+    _ A Curtezan is a Musi•ian.
 
-1. A Swaggerer is one that playe• at Ruffe,
+    _ A Gull Traueller is the Ball at Tennis,
 
-1. A broking Scriuener is a Barbersurgion.
+    _ A Swaggerer is one that playe• at Ruffe,
 
-1. A Gamester at Irish is a Merchant Aduenturer.
+    _ A broking Scriuener is a Barbersurgion.
 
-1. An Amorist is a Painter.
+    _ A Gamester at Irish is a Merchant Aduenturer.
+
+    _ An Amorist is a Painter.
+
+1. Lectoribus.
 
 **Types of content**
 
